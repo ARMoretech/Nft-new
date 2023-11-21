@@ -1,0 +1,10 @@
+.content { background-color: rgb(30, 30, 77); margin: auto; 
+width: 250px; padding: 20px; border-radius: 5%; }
+.image { margin-top: auto; margin-left: 10%; margin-right: 30%;  
+border-radius: 5%; }
+.desc { color: rgb(160, 149, 149);}
+.name { font-size: 20px; color: white;}
+.price {text-align: left; color: aqua;}
+.time { text-align: right; margin-left: 40%; color: rgb(138, 138, 136);}
+.price, .time{display: inline-flex;}
+body { background-color: rgb(2, 2, 48); padding-top: 100px;}
